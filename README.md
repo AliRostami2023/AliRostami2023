@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python Backend Programming
 - 💞️ I’m looking to collaborate on a perofessional and punctual team
 - 📫 email : AliRostami1253@gmail.com
-- 😄 telegram: t.me/A_R7698 
+- 😄 telegram: @A_R7698 

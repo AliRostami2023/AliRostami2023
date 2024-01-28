@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Ali Rostami
-- 👀 I’m interested in Python Backend Programming
-- 💞️ I’m looking to collaborate on a perofessional and punctual team
+- 👋 Hi, I’m Ali Rostami,
+   I’m interested in Python Backend Programming
+
+- 👀 Telegram: @A_R7698
+
+- 💞️ I’m looking to collaborate on aperofessional and punctual team
+
 - 📫 email : AliRostami1253@gmail.com
-- 😄 telegram: @A_R7698 
+
+_ 🧑‍💻 Talents: Python, Django, DRF, Html Css, Git

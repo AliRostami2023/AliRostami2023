@@ -7,4 +7,6 @@ I’m interested in Python Backend Programming
 
 - 📫 email : AliRostami1253@gmail.com
 
+- linkedin : https://www.linkedin.com/in/ali-rostami2024
+
 • 🧑‍💻 Talents: Python, Django, DRF, Html Css, Git

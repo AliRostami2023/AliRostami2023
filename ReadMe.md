@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ali Rostami, I’m interested in Python Backend Programming<br><br>⚡️ Telegram: t.me/A_R7698<br><br>💞️ I’m looking to collaborate on aperofessional and punctual team<br><br>📫 email : AliRostami1253@gmail.com<br><br>🌏 linkedin : https://www.linkedin.com/in/ali-rostami2024<br><br>• 🧑‍💻 Skills: Python, Django,Docker, DRF, Html Css, Git, celery
+👋 Hi, I’m Ali Rostami, I’m interested in Python Backend Programming<br><br>⚡️ Telegram: t.me/HelixEyEs<br><br>💞️ I’m looking to collaborate on aperofessional and punctual team<br><br>📫 email : AliRostami1253@gmail.com<br><br>🌏 linkedin : https://www.linkedin.com/in/ali-rostami2024<br><br>• 🧑‍💻 Skills: Python, Django,Docker, DRF, Html Css, Git, celery
 
 
 ## 🌐 Socials:
